@@ -13,6 +13,7 @@ Explorotary data analysis on Titanic Dataset
 2. You can download csv provided in this project.
 3. You can download python file provided in this project.
 4. You can read the report on data analysis I have done on the Titanic dataset.
+[How to install anaconda](https://docs.anaconda.com/anaconda/install/ "Named link title")
 
 
 ## Where users can get help with your project

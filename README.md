@@ -9,7 +9,7 @@ Explorotary data analysis on Titanic Dataset
 3. we can learn about correlation matrix between numerical variables.
 
 ## How users can get started with the project
-1. You can install anaconda first to run the Jupyter notebook file.
+1. You can install anaconda first to run the Jupyter notebook file. [How to install anaconda](https://docs.anaconda.com/anaconda/install/ "Named link title")
 2. You can download csv provided in this project.
 3. You can download python file provided in this project.
 4. You can read the report on data analysis I have done on the Titanic dataset.

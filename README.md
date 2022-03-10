@@ -20,6 +20,6 @@ Explorotary data analysis on Titanic Dataset
 You can suggest more on data exploration and data analysis.
 
 ## Useful link to get started
-[Learning Python](https://www.python.org/about/gettingstarted/ "Named link title")
+[Learning Python](https://www.python.org/about/gettingstarted/ "Named link title")\n
 [pandas data analysis and manipulation tool](https://pandas.pydata.org/ "Named link title")
 [NumPy Documentation](https://numpy.org/ "Named link title")

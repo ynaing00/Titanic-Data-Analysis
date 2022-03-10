@@ -16,5 +16,3 @@ Explorotary data analysis on Titanic Dataset
 
 ## Where users can get help with your project
 You can suggest more on data exploration and data analysis.
-
-## Who maintains and contributes to the project
